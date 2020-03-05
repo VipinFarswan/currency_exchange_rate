@@ -1,1 +1,1 @@
-# currency_exchange_rate
+# PHP currency exchange rate sample using exchangeratesapi http://exchangeratesapi.io/.
